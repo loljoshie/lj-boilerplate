@@ -18,8 +18,8 @@ Unlock your full development potential with the <a href="https://vitejs.dev/">Vi
 <p align="center">
     <img src="https://img.shields.io/badge/difficulty-easy%20to%20use-important" alt="Latest Status">
     <img src="https://img.shields.io/badge/status-up-brightgreen.svg" alt="Latest Status">
-    <img src="https://img.shields.io/badge/version-1.0-blueviolet.svg" alt="Version 1.0">
     <img src="https://img.shields.io/badge/views-151-blue.svg" alt="Views on Repo">
+    <img src="https://img.shields.io/badge/version-1.0-blueviolet.svg" alt="Version 1.0">
 </p>
 
 ## Recommended IDE Setup
