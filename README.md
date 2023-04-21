@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Unlock your full development potential with the <a href="https://vitejs.dev/">Vite</a>, <a href="https://vuejs.org/">Vue</a> & <a href="https://tailwindcss.com/">TailwindCSS</a> boilerplate for FiveM. Designed to streamline <br>your workflow and boost your productivity, this powerful tool delivers lightning-fast performance and a sleek, <br> modern design. Download now and revolutionize your FiveM development!
+Unlock your full development potential with the <a href="https://vitejs.dev/">Vite</a>, <a href="https://vuejs.org/">Vue</a> & <a href="https://tailwindcss.com/">TailwindCSS</a> boilerplate for FiveM. Designed to streamline your workflow and boost your productivity, this powerful tool delivers lightning-fast performance and a sleek, modern design. Download now and revolutionize your FiveM development!
 <p>
 <!--
 <p align="center">
