@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#/#gh-light-mode-only" target="_blank">
+  <a href="https://github.com/loljoshie/lj-boilerplate/#gh-light-mode-only" target="_blank">
     <img src="https://user-images.githubusercontent.com/91661118/233499718-11d46bc9-0691-4e1c-9dc0-45dd84f0092d.svg" alt="lj-boilerplate" width="400">
   </a>
-  <a href="#/#gh-dark-mode-only" target="_blank">
+  <a href="https://github.com/loljoshie/lj-boilerplate/#gh-dark-mode-only" target="_blank">
     <img src="https://user-images.githubusercontent.com/91661118/233499762-71b7c870-4c54-4312-b64f-26f006336317.svg" alt="lj-boilerplate" width="400">
   </a>
 </p>
@@ -88,3 +88,6 @@ This boilerplate was created by <a href="https://heroicons.com/" target="_blank"
 
 ## Contributions
 Contributions are always welcome! If you would like to contribute to this project, please create a pull request or open an issue.
+
+## Projects used with:
+* https://guildabot.com/
