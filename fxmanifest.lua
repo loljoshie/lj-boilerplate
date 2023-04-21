@@ -4,7 +4,7 @@ game "gta5"
 
 -- Resource metadata
 author "loljoshie"
-description "Vite, Vue and TailwindCSS boilerplate made for FiveM."
+description "Vite, Vue & TailwindCSS boilerplate made for FiveM."
 version "1.0"
 
 -- Define client-side scripts
