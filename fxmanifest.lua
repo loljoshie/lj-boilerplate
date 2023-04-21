@@ -26,6 +26,7 @@ shared_scripts {
 files {
     "html/*",
     "html/assets/*",
+    "html/img/*",
     "html/index.html"
 }
 
