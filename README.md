@@ -73,6 +73,18 @@ npm run build
 
 This will compile the files and create an `html` folder that contains the output. Once you've loaded compiled it successfully, you can now access your project in-game.
 
+## Dark mode
+Now that dark mode is a first-class feature of many operating systems, it’s becoming more and more common to design a dark version of your website to go along with the default design.
+
+To make this as easy as possible, Tailwind includes a `dark` variant that lets you style your site differently when dark mode is enabled:
+
+* Launch your preferred editor and access the main directory of the cloned repository.
+* Locate and open the src folder within the directory.
+* Navigate to the index.html file located inside the src folder.
+* Toggle between the `dark` or `light` mode as desired.
+
+![Code_JPZ4ssLrhI](https://user-images.githubusercontent.com/91661118/233740972-5d0bbcce-d677-4e08-8a60-fc38efa99e8c.gif)
+
 ## Boilerplate Upgrade (optional)
 TailwindCSS has also developed a handful of official plugins for popular features that for one reason or another don’t belong in core yet.
 
